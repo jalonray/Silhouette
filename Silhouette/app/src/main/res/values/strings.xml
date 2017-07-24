@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Silhouette</string>
+    <string name="accessibility_service_label">accessibilityService</string>
 </resources>
