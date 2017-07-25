@@ -6,7 +6,15 @@
     android:layout_height="match_parent"
     tools:context="com.silhouette.jalon.silhouette.MainActivity">
 
+
+    <Button
+        android:id="@+id/toLogCat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="toLogCat" />
+
     <TextView
+        android:id="@+id/info"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
